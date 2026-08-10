@@ -57,7 +57,7 @@ These open-source notification platforms and libraries form the core ecosystem f
 
 Sorted by GitHub Star count (descending). ⭐
 
-| Project 🛠️ | Star Count 🌟 | Description 📝 | License 📜 | Notes 💡 |
+| Project 🛠️ | Star_Count🌟 | Description 📝 | License 📜 | Notes 💡 |
 |:---|:---|:---|:---|:---|
 | **[Novu](https://github.com/novuhq/novu)** | [<img src="https://img.shields.io/github/stars/novuhq/novu?style=social&color=white" alt="Novu Stars" />](https://github.com/novuhq/novu/stargazers) | Open-source notification infrastructure platform. Unified API for push, email, SMS, in-app, and chat with workflows, templates, digests, and subscriber preferences. ⚡ | MIT (Open Core) | Dominant multi-channel open-source solution |
 | **[ntfy](https://github.com/binwiederhier/ntfy)** | [<img src="https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white" alt="ntfy Stars" />](https://github.com/binwiederhier/ntfy/stargazers) | Lightweight HTTP pub/sub push notification server. Publish via simple PUT/POST; clients receive on Android, iOS, web, or desktop. Supports UnifiedPush, priorities, attachments, and action buttons. 📲 | Apache 2.0 / GPL 2.0 | Best overall self-hosted option; public instance at ntfy.sh |
