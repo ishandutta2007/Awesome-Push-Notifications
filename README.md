@@ -1,6 +1,6 @@
 # Awesome-Push-Notifications
 
-# Top Push Notification Platforms & Tools
+## Top Push Notification Platforms & Tools
 
 A curated list of leading platforms and frameworks for sending, managing, and optimizing push notifications across mobile, web, and multi-channel engagement.  
 **Primary focus: open-source software.**
